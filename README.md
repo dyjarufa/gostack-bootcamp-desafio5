@@ -8,8 +8,7 @@
 
 <p align="center">“Para quem fica melhor a cada dia, ficar pronto é utopia”!</blockquote>
 
-
-
+![Main_Repository](https://user-images.githubusercontent.com/38504381/77194799-5ecccf80-6abf-11ea-8331-7125e107bed5.PNG)
 
 ## :rocket: Sobre o desafio
 
